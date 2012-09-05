@@ -14,6 +14,6 @@ Under the db you need to select a type from the drop down column, if it's an Enu
 
 Under the relations you can define the related class Relation Column
 ## To Do
-* Add CMSField build
+* Add relation fields to CMSField build
 * Add convert notes to standard docblock comments
 * Add fields for more robust docblock descriptions 
